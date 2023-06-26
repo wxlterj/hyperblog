@@ -1,4 +1,4 @@
-#Hyperblog (versión quien sabe cuál)
+# Hyperblog (versión quien sabe cuál)
 Es un blog que hice en el curso de Platzi de Git y Github.
 
 En este curso aprendí:
