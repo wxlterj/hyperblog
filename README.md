@@ -10,6 +10,7 @@ En este curso aprendí:
 - Readme como buena práctica, por supuesto
 - Creado por el icreíble Walter!!!
 - Use terminal de Linux para esto estando en Windows
+- No sé
 
 ------------
 
