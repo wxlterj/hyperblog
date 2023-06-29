@@ -8,7 +8,8 @@ En este curso aprendí:
 - Hacer pull request y forks
 - Muchas cosas más que me dan pereza escribir ahora
 - Readme como buena práctica, por supuesto
--Creado por el icreíble Walter!!!
+- Creado por el icreíble Walter!!!
+- Use terminal de Linux para esto estando en Windows
 
 ------------
 
